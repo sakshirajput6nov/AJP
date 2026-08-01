@@ -30,7 +30,7 @@ public class D25_Pattern_Printing25 {
 										//3333333
 //				System.out.print(j+" ");// 12
 										//1234
-				System.out.print("\t "+(char)(64+i));// ABCD pattern
+				System.out.print((char)(64+i)+"\t");// ABCD pattern
 			}
 			space--;
 			size+=2;
